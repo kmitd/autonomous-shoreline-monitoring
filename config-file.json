@@ -6,7 +6,8 @@
 		
 	},
 	"ontologies" : {
-		"robot" : "robot-knowledge.nt"
+		"people" : "nuig-people.nt",
+		"museum" : "nuig-cocomu.nt"
 	},
 	"pseudocode" : {}
 	
