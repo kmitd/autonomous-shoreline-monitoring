@@ -1,1 +1,9 @@
-
+{
+	"scripts" : {
+		"event_1" : "script.py",
+		"event_2" : "script-2.py",
+		"event_3" : "script-3.py"
+		
+	}
+	
+}
