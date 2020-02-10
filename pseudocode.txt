@@ -1,6 +1,7 @@
 # pseudocode 
 
+given : newEvent
 for every type T of event :
 	do
-	
+	bool matched = KGmatch(T, newEvent) # need to find which entity it is, based on script
 	done
