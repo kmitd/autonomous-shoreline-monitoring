@@ -1,0 +1,6 @@
+# pseudocode 
+
+for every type T of event :
+	do
+	
+	done
