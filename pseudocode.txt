@@ -1,9 +1,44 @@
 # pseudocode 
 
-given : 
-r = [img, timestamp,  location, sensor_type, event_type ] # new raw event  
 E = []  # list of high-level events, initially empty
+R = []  # list of high-level events, initially empty
 
-event_strategy_scripts = { event_type : script.py } # dictionary of event_types (face, computer, radio) and the strategy to invoke 
+######### 1 : Querying ###########
 
-# match to kg
+given : 
+	r = [img, timestamp,  location, sensor_type, event_type ] # new raw event  
+
+append(r, R) # temporal storage
+
+candidates = query(KG, event_type) # ask for instances of class event_type 
+		
+return candidates
+
+######### 2 : Validation ###########
+
+given: 
+	t # current time
+	threshold # threshold  
+	candidates
+	subset_E  # a set of events in a timeframe [ t-n, t+n ]
+	strategy_scripts = { event_type : script } # dictionary of event_types (face, computer, radio) and the strategy/script to invoke 
+
+
+# validate should return 1 entity from the KG
+validate: 
+	for strategy s in strategy_scripts:
+		# if it's a person
+		check faces from KG (OpenCV)
+	
+		#if it is a PC
+		check description with logo (OCR), size (camera), then img (OpenCV) 
+		
+return entity_from_kg, event_type
+
+######### 3 : Storage ###########
+
+given :
+	entity_from_kg, event_type
+	append(entity_from_kg, E) # append an instance of event_type to E 
+	remove(r, R)  
+	
