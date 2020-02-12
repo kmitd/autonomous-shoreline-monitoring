@@ -1,7 +1,9 @@
 # pseudocode 
 
-given : newEvent
-for every type T of event :
-	do
-	bool matched = KGmatch(T, newEvent) # need to find which entity it is, based on script
-	done
+given : 
+r = [img, timestamp,  location, sensor_type, event_type ] # new raw event  
+E = []  # list of high-level events, initially empty
+
+event_strategy_scripts = { event_type : script.py } # dictionary of event_types (face, computer, radio) and the strategy to invoke 
+
+# match to kg
