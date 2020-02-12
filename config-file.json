@@ -6,8 +6,8 @@
 		
 	},
 	"ontologies" : {
-		"people" : "nuig-people.nt",
-		"museum" : "nuig-cocomu.nt"
+		"people" : "ontologies/nuig-people.ttl",
+		"museum" : "ontologies/nuig-museum.ttl"
 	},
 	"pseudocode" : {}
 	
