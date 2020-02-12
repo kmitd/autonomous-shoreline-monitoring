@@ -1,0 +1,139 @@
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://data.datascienceinstitute.ie/person/011ff5deeed5e8ab2286888e4b1660673b5548b8>	rdfs:label	"Dr Alessandro Adamou"@en ,
+		"Alessandro Adamou"@en .
+@prefix ns1:	<http://www.w3.org/ns/org#> .
+<http://data.datascienceinstitute.ie/person/011ff5deeed5e8ab2286888e4b1660673b5548b8>	ns1:role	"Podling Project Management Committee member"@en .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://data.datascienceinstitute.ie/person/011ff5deeed5e8ab2286888e4b1660673b5548b8>	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=13745856> .
+<http://data.datascienceinstitute.ie/person/02bf9dce5aef60344735e93648dfce6a7ca9b36c>	rdfs:label	"Martin Serrano"@en ,
+		"Dr. Martin Serrano Orozco"@en ;
+	ns1:role	"Group co-Chair at the AIOTI WG01 IoT Research"@en ,
+		"member"@en ,
+		"Board Member"@en ,
+		"leader"@en ,
+		"Technical Manager"@en ,
+		"IoT Emerging Technologies, Experimental Platforms Chapter Chair"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=1077252> .
+<http://data.datascienceinstitute.ie/person/0d8780c42deecbe890a15aa605a80aeb9caa4fd3>	rdfs:label	"DR CONOR HAYES"@en ,
+		"Conor Hayes"@en ;
+	ns1:role	"leader"@en ,
+		"Member"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=112176040> .
+<http://data.datascienceinstitute.ie/person/0e2c75d549eae361935e60a0ba8bc2457d6b5148>	rdfs:label	"Ph.D. Student Joana Barros"@en ,
+		"Joana Barros"@en ;
+	ns1:role	"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=13220169> .
+<http://data.datascienceinstitute.ie/person/18f141b1658929105cb9c1f2960676528a01adb7>	rdfs:label	"Claire Browne"@en ;
+	ns1:role	"Administrator"@en ;
+	foaf:depiction	<https://www.insight-centre.org/sites/default/files/styles/user_picture/public/uploads/tx_derimp/claire_browne.jpg?itok=mtbSYtGx> .
+<http://data.datascienceinstitute.ie/person/20bc2a78fce2b6d51cafb5ed584a953e39552ee1>	rdfs:label	"Ali Intizar"@en ,
+		"Dr Muhammad Intizar Ali"@en ;
+	ns1:role	"leader"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=2484949> .
+<http://data.datascienceinstitute.ie/person/20e4d5586954beaa10fccf734f53d7c17febb195>	rdfs:label	"Hilda Fitzpatrick"@en ;
+	ns1:role	"Administrator"@en ;
+	foaf:depiction	<https://www.insight-centre.org/sites/default/files/styles/user_picture/public/uploads/tx_derimp/hilda_fitzpatrick_01.jpg?itok=jonvJLWM> .
+<http://data.datascienceinstitute.ie/person/235eaf2c8efcc8bb6b23a3edfaed56634e8ebe1f>	rdfs:label	"Dr Subhasis Thakur"@en ,
+		"Subhasis Thakur"@en ;
+	ns1:role	"Member of Committee for Blockchain Standard"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=11404670> .
+<http://data.datascienceinstitute.ie/person/25cb2c4c1429e8dff2bdaa3a11fb8a5666d3872c>	rdfs:label	"Dr. John Mc Crae"@en ,
+		"John McCrae"@en ;
+	ns1:role	"leader"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=9485726> .
+<http://data.datascienceinstitute.ie/person/2800067d9311068905dbc16d86ea536192afb575>	rdfs:label	"Dr John Breslin"@en ,
+		"John Breslin"@en ;
+	ns1:role	"leader"@en ,
+		"Senior Member"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=112174689> .
+<http://data.datascienceinstitute.ie/person/31cfebb75b693a4de784bce668d0731737bf68c4>	rdfs:label	"Vit Novacek"@en ,
+		"Dr Vit Nov\u00E1cek"@en ;
+	ns1:role	"leader"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live//va36/img/blank_face.gif> .
+<http://data.datascienceinstitute.ie/person/345273a635a6de579013aa4f3673c1518966593d>	rdfs:label	"Edward Curry"@en ,
+		"Dr. Edward Curry"@en ;
+	ns1:role	"leader"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=112176019> .
+<http://data.datascienceinstitute.ie/person/3c152032cea339067a0d1cb991e817271a98cf2c>	rdfs:label	"Mr Koustava Goswami"@en ,
+		"Koustava Goswami"@en ;
+	ns1:role	"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=17678194> .
+<http://data.datascienceinstitute.ie/person/3c37e02bcc3754b401a69f52060812b7f0f898b1>	rdfs:label	"Ms Omnia  Zayed"@en ,
+		"Omnia Zayed"@en ;
+	ns1:role	"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=14966996> .
+<http://data.datascienceinstitute.ie/person/3f16ca14ce64c572d87506222eb543ba0e05ddaa>	rdfs:label	"Niki Pavlopoulou"@en ,
+		"Ph.D. Student Niki Pavlopoulou"@en ;
+	ns1:role	"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live//va36/img/blank_face.gif> .
+<http://data.datascienceinstitute.ie/person/3f2232c3c0b7ee1722c18f6c953f7a0c0b6b0a40>	rdfs:label	"Dr. Peter Paul Buitelaar"@en ,
+		"Paul Buitelaar"@en ;
+	ns1:role	"Information Officer of the Special Interest Group on Computational Semantics (SIGSEM)"@en ,
+		"leader"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=112175320> .
+<http://data.datascienceinstitute.ie/person/41e73bf8972d9ea967291e5e7196e1cefd605ac8>	rdfs:label	"Mr Adrian  Doyle"@en ,
+		"Adrian \u00D3 Dubhghaill"@en ;
+	ns1:role	"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=14961902> .
+<http://data.datascienceinstitute.ie/person/4c41a9455d4e8a979a9fcc31c11f3cce296cd616>	rdfs:label	"Brian Wall"@en ,
+		"Dr Brian Wall"@en ;
+	ns1:role	"Head of Operations"@en ;
+	foaf:depiction	<https://www.insight-centre.org/sites/default/files/styles/user_picture/public/pictures/picture-106-1401104688.jpg?itok=SWHZmvC0> ,
+		<https://iris.nuigalway.ie/live//va36/img/blank_face.gif> .
+<http://data.datascienceinstitute.ie/person/5998349bdc54233060e9b4e4e0d3d3d46a64d277>	rdfs:label	"Mr Nivranshu Pasricha"@en ,
+		"Nivranshu Pasricha"@en ;
+	ns1:role	"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live//va36/img/blank_face.gif> .
+<http://data.datascienceinstitute.ie/person/5a735531b0113687909c0ae5707352fc3f780319>	rdfs:label	"Mr Marc Mellotte"@en ,
+		"Marc Mellotte"@en ;
+	ns1:role	"leader"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=112174753> .
+<http://data.datascienceinstitute.ie/person/6738a42288188b0de7c03522aafd073953dd9ce3>	rdfs:label	"Abdul Wahid"@en ,
+		"Mr Abdul Wahid"@en ;
+	ns1:role	"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=17613971> .
+<http://data.datascienceinstitute.ie/person/7a4d9e61bf041dcd6766e69ea48a5fd2ac15ca37>	rdfs:label	"Michelle Treacy"@en ;
+	ns1:role	"Finance Manager"@en ;
+	foaf:depiction	<https://www.insight-centre.org/sites/default/files/styles/user_picture/public/uploads/tx_derimp/michelle_treacy.jpg?itok=t53jRzvW> .
+<http://data.datascienceinstitute.ie/person/97b9b1a0140db5b600e369416e25f7e9ba599526>	rdfs:label	"POST DOCTORAL RESEARCH  PIYUSH  YADAV"@en ,
+		"Piyush Yadav"@en ;
+	ns1:role	"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=13205911> .
+@prefix ns3:	<http://data.datascienceinstitute.ie/person/> .
+ns3:a1543cdf7f5b453b5d84dd72179023e4e19a7739	rdfs:label	"Bharathi Raja Asoka Chakravarthi"@en ,
+		"Mr Bharathi Raja Asoka Chakravarthi"@en ;
+	ns1:role	"Program Committe member"@en ,
+		"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=16722211> .
+ns3:a30597d2e0469b6dcb11ac39a465e46a1743562d	rdfs:label	"Bharath Sudharshan"@en ,
+		"Mr Bharath Sudharsan"@en ;
+	ns1:role	"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=17678319> .
+ns3:a5c36e092eac2fa9fd17c64a9e2a6422e453fda4	rdfs:label	"Dr Gboyega Ojo"@en ,
+		"Adegboyega Ojo"@en ;
+	ns1:role	"leader"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=2106837> .
+ns3:bf3695a41fec3ead37cfb5c1c68cc9e9538e9ed4	rdfs:label	"POST DOCTORAL RESEARCH  Sameh Mohamed"@en ,
+		"Sameh K. Mohamed"@en ;
+	ns1:role	"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=13205913> .
+ns3:d69c93805d547c976dd17fd10e72e7fd4e378ec2	rdfs:label	"Ph.D. Student Asra Aslam"@en ,
+		"Asra Aslam"@en ;
+	ns1:role	"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live//va36/img/blank_face.gif> .
+ns3:e2661bf37164025e0780f1c5a113d849ad65489c	rdfs:label	"Oksana Dereza"@en ,
+		"Ms Oksana Dereza"@en ;
+	ns1:role	"student"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=17678203> .
+ns3:e73b278fe2f44bcc057febb96fed2258d8484739	rdfs:label	"Dr. Maria Smyth"@en ,
+		"Maria Smyth"@en ;
+	ns1:role	"Grants Manager"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live//va36/img/blank_face.gif> ,
+		<https://www.insight-centre.org/sites/default/files/styles/user_picture/public/uploads/tx_derimp/maria_smyth.jpg?itok=yb_iBLiT> .
+ns3:ec14fcad4aca5d349f0679ffb0c48c287ec8fd46	rdfs:label	"Brendan Smith"@en ;
+	ns1:role	"EPE Officer"@en ;
+	foaf:depiction	<https://www.insight-centre.org/sites/default/files/styles/user_picture/public/uploads/tx_derimp/brendan_smith_01.jpg?itok=DAL8zoBt> .
+ns3:f3e16e1d5318c0bb920eac2a953d7b326b4d75c3	rdfs:label	"Mathieu d'Aquin"@en ,
+		"Prof Mathieu D'Aquin"@en ;
+	ns1:role	"leader"@en ;
+	foaf:depiction	<https://iris.nuigalway.ie/live/w_rms_blob_common.download_photo?pObjectId=12305225> .
