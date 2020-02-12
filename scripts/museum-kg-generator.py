@@ -32,6 +32,7 @@ positions = [URIRef(nuig+"locations/onTable"), URIRef(nuig+"locations/underTable
 ###
 if __name__ == "__main__":
 	
+    # it's a random list of devices from DBpedia for testing 
     computers = readCSV("random_devices.csv")
     g = Graph()
     
